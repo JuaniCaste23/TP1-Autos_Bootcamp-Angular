@@ -1,0 +1,19 @@
+{
+  "name": "typescript-app",
+  "version": "1.0.0",
+  "description": "typescript orientado a objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juani Castelli",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "g": "^2.0.1",
+    "npm": "^8.19.2"
+  },
+  "devDependencies": {
+    "typescript": "4.8.4"
+  }
+}
