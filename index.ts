@@ -67,8 +67,7 @@ class Auto {
 const fabrica = new FabricaDeAutos();
 //fabrica.createAuto('rojo', 'renault 12', 5);
 
-//Punto 1
-console.log(fabrica.getAutos());
-
 //Punto 2 y 3
 fabrica.createAutomaticAutos(35, 'azul', 'fiat uno', 5);
+//Punto 1
+console.log(fabrica.getAutos());
