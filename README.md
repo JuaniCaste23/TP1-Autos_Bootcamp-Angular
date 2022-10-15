@@ -1,7 +1,7 @@
 # TP1-Autos_Bootcamp-Angular
-TP1 for AngularBootcamp
+TP1 of AngularBootcamp
 
-Task (in spanish):
+Tasks (in spanish):
 
 1. Integra un método a la clase "FabricaDeAutos" que devuelva el array de autos que han sido
 fabricado.
@@ -14,4 +14,4 @@ automática, es probable que necesites hacer uso de un loop como for o while.
 antes de crear un nuevo auto si la capacidad de la fábrica ha llegado a su límite. De ser así,
 no deberías ejecutar la creación de un nuevo auto.
 
-Teacher and Author for the Bootcamp: Josue Oroya.
+Teacher and Author of the Bootcamp: Josue Oroya
